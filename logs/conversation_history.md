@@ -66,3 +66,9 @@
 - **Assistant:** 已為專案產生部署必需的 `requirements.txt`，並 Push 至遠端 Github。隨後附上了一鍵部署專屬網址與流程說明，讓使用者能無縫在 Streamlit Community Cloud 上發布應用程式。
 
 ---
+
+## [2026-04-28 12:00:46]
+- **User:** 部屬成功了，網址是 https://teddywang0824-aiot-dic7-ml-app-qfujza.streamlit.app/
+- **Assistant:** 恭喜成功上線！為確保專案展示完整度，我已將這組公開網址更新至 `README.md` 的首行，並完成了最後的 Git Push 推送。
+
+---
