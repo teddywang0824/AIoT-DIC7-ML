@@ -48,3 +48,15 @@
 - **Assistant:** 已於 `app.py` 的 Phase 6 階段實作即時單點預測（將輸入值經過 StandardScaler 再以 LinearRegression 預測）；同時增加了 `joblib.dump` 儲存機制按鈕與針對生成之 pkl 檔的 `st.download_button` 提供使用者下載儲存。
 
 ---
+
+## [2026-04-28 11:42:13]
+- **User:** 很好!請幫我將這個專案推上github
+- **Assistant:** 已自動為專案生成了 `.gitignore` 並執行本地端 `git commit`。目前專案已在本地完成版控，正等待使用者提供建立好的 GitHub 遠端儲存庫 URL 以進行 Push 動作。
+
+---
+
+## [2026-04-28 11:47:58]
+- **User:** https://github.com/teddywang0824/AIoT-DIC7-ML 這是resporitory連結
+- **Assistant:** 已成功使用 `git remote add origin` 綁定 Github 網址，並用 `git push -u origin main` 將所有的專案與檔案正式發佈至您的遠端儲存庫中。
+
+---
