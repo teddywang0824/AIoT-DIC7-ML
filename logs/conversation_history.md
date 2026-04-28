@@ -60,3 +60,9 @@
 - **Assistant:** 已成功使用 `git remote add origin` 綁定 Github 網址，並用 `git push -u origin main` 將所有的專案與檔案正式發佈至您的遠端儲存庫中。
 
 ---
+
+## [2026-04-28 11:56:23]
+- **User:** 可以幫我部署到streamilt嗎
+- **Assistant:** 已為專案產生部署必需的 `requirements.txt`，並 Push 至遠端 Github。隨後附上了一鍵部署專屬網址與流程說明，讓使用者能無縫在 Streamlit Community Cloud 上發布應用程式。
+
+---
