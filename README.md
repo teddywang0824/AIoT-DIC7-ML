@@ -1,5 +1,7 @@
 # CRISP-DM Linear Regression Simulator
 
+🌟 **[點此進入線上即時展示 (Live Demo)](https://teddywang0824-aiot-dic7-ml-app-qfujza.streamlit.app/)** 🌟
+
 此專案為一個基於 Streamlit 的互動式資料科學應用程式。其主要目標為引導使用者體驗標準的 **CRISP-DM (Cross-Industry Standard Process for Data Mining) 六大階段**，並透過模擬帶有擾動雜訊的數據特徵，示範基礎線性迴歸模型 (Linear Regression) 的運作與表現。
 
 ## ✨ 專案亮點與功能
